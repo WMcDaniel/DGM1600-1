@@ -1,0 +1,15 @@
+public string[] BodySegments = { "Head", "Abs", "Thorax" };
+    //Health
+    public int health = 100;
+    ----------Int is for whole numbers
+    //Speed
+    public float speed = 0.0f;
+    ------------Floats are for numbers with decimals
+    //Size
+    public string size = "Big";
+   ---------- String is like text, characters not numbers.
+    public Color baseColor;
+    
+   ------ Variable Color is just to change the color of an object
+    
+   --------- Bool's are always true or false. Light switch on or off.
